@@ -28,7 +28,7 @@ author: Tom Wisniewski
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker #minima
+theme: minima
 plugins:
   - jekyll-feed
 
